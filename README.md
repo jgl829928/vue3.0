@@ -7,6 +7,7 @@ aaaaaaaa
 ```
 npm install
 ```
+lalalala
 
 ### Compiles and hot-reloads for development
 ```
