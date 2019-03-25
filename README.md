@@ -1,12 +1,8 @@
 # project
-zhang123
-jiaasd12331
-
 ## Project setup
 ```
 npm install
 ```
-123456
 ### Compiles and hot-reloads for development
 ```
 npm run serve
