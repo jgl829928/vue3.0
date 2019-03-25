@@ -6,12 +6,12 @@ jiaasd12331
 ```
 npm install
 ```
-123456
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
+123131324ajdhad
 ### Compiles and minifies for production
 ```
 npm run build
