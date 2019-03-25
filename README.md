@@ -1,24 +1,15 @@
 # project
-12345
-78910
-lalallalsaada
 
-
-
-234567
-
-aaaaaaaa
 ## Project setup
 ```
 npm install
 ```
-lalalala
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-1234567890
+
 ### Compiles and minifies for production
 ```
 npm run build
