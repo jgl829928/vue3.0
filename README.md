@@ -1,6 +1,5 @@
 # project
-jia
-zhang
+
 
 ## Project setup
 ```
